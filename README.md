@@ -1,2 +1,2 @@
 # DistributedInformationProcessing
-Task from KPI
+Зведення СЛАУ до трикутного вигляду.
