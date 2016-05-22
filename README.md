@@ -1,0 +1,2 @@
+# DistributedInformationProcessing
+Task from KPI
